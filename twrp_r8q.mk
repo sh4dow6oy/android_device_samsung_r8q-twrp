@@ -8,7 +8,7 @@
 # Only the below variable(s) need to be changed!
 #
 # Define hardware platform
-PRODUCT_PLATFORM := kona
+PRODUCT_PLATFORM := msmnile
 
 # The below variables will be generated automatically
 #
